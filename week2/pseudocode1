@@ -1,0 +1,9 @@
+// newton second law
+STORE "EF" in any value
+STORE "m" in any value
+STORE "a" in any value
+COMPUTE "a" times "m" 
+SET "EF" value with calculation result
+DISPLAY "EF"
+
+
